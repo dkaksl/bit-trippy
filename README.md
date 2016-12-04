@@ -20,3 +20,7 @@ A [BIT.TRIP RUNNER](http://store.steampowered.com/app/63710/) bot written in Jav
 - Automatic menu navigation
 - Lv 1-1's bonus level
 - More levels
+
+## Relevant Blog Posts
+
+- https://kilumanga.com/2016/12/04/bit-trip-runner-bot/
